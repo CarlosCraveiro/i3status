@@ -1,7 +1,7 @@
 # i3 status bar
 
 This is the code of my personal i3 bar, so feel free to fork, modify and adapt to your own taste and need.
-It was inspired from @Daivasmara's i3-bar.
+It was inspired from @Tazeg's i3 status bar.
 
 <!-- In the future it will be an image -->
 
